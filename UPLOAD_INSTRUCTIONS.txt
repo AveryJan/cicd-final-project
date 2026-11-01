@@ -1,0 +1,8 @@
+Files prepared for AveryJan/accounts-service.
+1. Upload README.md, app.py, test_accounts.py, and Dockerfile to the repository ROOT.
+2. Replace .github/workflows/workflow.yml with the provided workflow (preserve folder path).
+3. Existing requirements.txt must remain in the repository.
+4. Open GitHub Actions and inspect a REAL new workflow run after committing.
+5. Copy complete actual logs into the Q4 response. Do not submit invented output.
+6. For Q5, Q6, Q7, capture genuine OpenShift console screenshots with prescribed filenames.
+NOTE: This package has not been deployed or independently validated on GitHub/OpenShift.
